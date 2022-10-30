@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on  front-end engineer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: 2770723534@qq.com
 - wx: GyangOnly, Please state your purpose
 
